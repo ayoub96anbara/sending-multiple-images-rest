@@ -1,5 +1,5 @@
 # sending-multiple-images-rest
-This demo explains how to create a web service in spring boot restful web, to send multiple images.
+This demo explains How to create a web service in spring boot restful web, to send multiple images stored in local machine.
 
 ## how run this demo in your localhost
 first you should create a folder that contains multiple images, set the location of this folder in LOCATION constant in MyController constructor.   
